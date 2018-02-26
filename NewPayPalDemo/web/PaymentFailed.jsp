@@ -1,7 +1,7 @@
 <%-- 
     Document   : PaymentFailed
     Created on : 11 Mar, 2016, 6:44:02 PM
-    Author     : Rakshit Shah (rakshitshah1994@gmail.com)
+    Author     : Nishant Singh
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

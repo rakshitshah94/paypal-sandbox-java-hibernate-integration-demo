@@ -1,7 +1,7 @@
 <%-- 
     Document   : PayPage
     Created on : 11 Mar, 2016, 4:42:38 PM
-    Author     : Rakshit Shah (rakshitshah1994@gmail.com)
+    Author     : Nishant Singh
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
