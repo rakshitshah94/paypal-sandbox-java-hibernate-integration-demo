@@ -20,7 +20,7 @@ import org.hibernate.SessionFactory;
 
 /**
  *
- * @author Nishant Singh
+ * @author Rakshit shah (rakshitshah1994@gmail.com)
  */
 public class ShowProductServ extends HttpServlet {
 

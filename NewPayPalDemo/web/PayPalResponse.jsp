@@ -1,7 +1,7 @@
 <%-- 
     Document   : PayPage
     Created on : 11 Mar, 2016, 4:50:38 PM
-    Author     : Nishant Singh
+    Author     : Rakshit shah (rakshitshah1994@gmail.com)
 --%>
 
 <%@page import="org.apache.jasper.tagplugins.jstl.core.ForEach"%>

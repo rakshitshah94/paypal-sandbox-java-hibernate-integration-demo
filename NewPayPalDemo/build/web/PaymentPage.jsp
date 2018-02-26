@@ -1,7 +1,7 @@
 <%-- 
     Document   : PaymentPage
     Created on : 11 Mar, 2016, 3:23:23 PM
-    Author     : Nishant Singh
+    Author     : Rakshit shah (rakshitshah1994@gmail.com)
 --%>
 
 <%@page import="model.OrderDetails"%>
@@ -36,7 +36,7 @@
             <input type="hidden" value="<%=prate%>" name="amount">
             Price:<input type="text" value="$<%=od.getAmount()%>" name="pamount" readonly="readonly" disabled="disabled" /><br>
             
-            <input type="hidden" name="business" value="nishant.icreate-facilitator@gmail.com" />
+            <input type="hidden" name="business" value="rakshitshah1994@gmail.com" />
             <input type="hidden" name="rm" value="2" />
             <input type="hidden" name="custom" value="<%=od.getOrderId()%>" />
             <input name = "currency_code" value = "USD" type = "hidden">
