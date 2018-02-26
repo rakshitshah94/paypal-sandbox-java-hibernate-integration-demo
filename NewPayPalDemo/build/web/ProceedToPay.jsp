@@ -1,7 +1,7 @@
 <%-- 
     Document   : PayPage
     Created on : 11 Mar, 2016, 1:42:38 PM
-    Author     : Nishant Singh
+    Author     : Rakshit Shah (rakshitshah1994@gmail.com)
 --%>
 
 <%@page import="model.ProductTable"%>

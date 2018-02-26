@@ -17,7 +17,7 @@ import org.hibernate.SessionFactory;
 
 /**
  *
- * @author Nishant Singh
+ * @author Rakshit Shah (rakshitshah1994@gmail.com)
  */
 public class ProceedToPayServ extends HttpServlet {
 

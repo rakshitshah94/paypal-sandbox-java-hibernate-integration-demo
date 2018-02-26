@@ -11,7 +11,7 @@ import org.hibernate.SessionFactory;
  * Hibernate Utility class with a convenient method to get Session Factory
  * object.
  *
- * @author Nishant Singh
+ * @author Rakshit Shah (rakshitshah1994@gmail.com)
  */
 public class HibernateUtil {
 
